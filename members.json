@@ -1,0 +1,26 @@
+[
+  {
+    "firstName": "Enes",
+    "lastName": "Karaca",
+    "age": 23,
+    "member": true
+  },
+  {
+    "firstName": "Emre",
+    "lastName": "Karanfil",
+    "age": 23,
+    "member": true
+  },
+  {
+    "firstName": "Beraat",
+    "lastName": "Güler",
+    "age": 25,
+    "member": true
+  },
+  {
+    "firstName": "Mert",
+    "lastName": "Altay",
+    "age": 30,
+    "member": true
+  }
+]
